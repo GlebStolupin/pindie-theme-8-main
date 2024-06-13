@@ -1,1 +1,1 @@
-Мой бэкенд: https://project-backend.nomorepartiesco.ru/
+Все в ветке master
